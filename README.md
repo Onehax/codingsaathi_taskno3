@@ -1,1 +1,2 @@
 # codingsaathi_taskno3
+index_temperatureconverter.html:- this is the 3rd task of the Internship. It depicts the temperature converter where the user inputs the temperature in any of the units(farenheit,celsius or kelvin) and it gets conerterd to the remaining two units. It include only the index_temperatureconverter.html file. Therefore just download or copy paste the html code and run it.(It includes all the css styling & javascript coding).
